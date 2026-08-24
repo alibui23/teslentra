@@ -1,0 +1,9 @@
+* [33m5ba9dfe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m checking in
+* [33m6d51601[m Components modified
+* [33m8276b69[m Several components modified and file structures revised
+* [33m768bab9[m Locations page revised and more detailing changes
+* [33m4bcf2dd[m Part and asset detail pages made
+* [33m3a9f5c6[m Backend routing and connected parts&assets pages to database
+* [33m2ef5c4f[m Purchases, locations, and barcode pages established
+* [33m8f528a6[m Parts and asset pages established
+* [33m7b6faf8[m Nav bar and dashboard page with components established
